@@ -9,5 +9,6 @@ namespace assignment_1.entities
     internal class StudCourse
     {
         public int Grade { get; set; }
+        public Student StuID { get; set; }
     }
 }

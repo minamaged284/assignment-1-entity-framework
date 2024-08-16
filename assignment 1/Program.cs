@@ -1,4 +1,5 @@
 ﻿using assignment_1.contexts;
+using Microsoft.EntityFrameworkCore;
 
 namespace assignment_1
 {
@@ -7,6 +8,7 @@ namespace assignment_1
         static void Main(string[] args)
         {
             itiDbContext iti = new itiDbContext();
+            
 
         }
     }
