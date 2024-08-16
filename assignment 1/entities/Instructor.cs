@@ -14,6 +14,5 @@ namespace assignment_1.entities
         public decimal Salary { get; set; }
         public string Address { get; set; }
         public int HourRate { get; set; }
-
     }
 }

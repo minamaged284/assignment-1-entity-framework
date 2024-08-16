@@ -5,10 +5,6 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment 1", "assignment 1\assignment 1.csproj", "{BEF796E3-CB53-416F-A24D-0AB3C2DCD247}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "contexts", "contexts", "{A8710546-1B76-44F7-9DD6-F38D77BF9CAD}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "entities", "entities", "{7ACD5C32-8BAE-4DE5-822F-7E54961D2E65}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

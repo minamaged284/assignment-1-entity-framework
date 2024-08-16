@@ -8,6 +8,7 @@ namespace assignment_1.entities
 {
     internal class CourseIns
     {
+        
         public int Evaluate { get; set; }
     }
 }

@@ -12,5 +12,6 @@ namespace assignment_1.entities
         public int Duration { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
+
     }
 }
